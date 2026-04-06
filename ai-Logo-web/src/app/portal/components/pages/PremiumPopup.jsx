@@ -340,8 +340,7 @@ const PremiumPopup = ({ isOpen, onClose }) => {
 
               <div className="flex flex-wrap justify-center gap-3 sm:gap-4 text-[10px] sm:text-[14px] text-[#F3F3F3CC]">
                 <Link
-                  href={"https://www.aisoulmatedrawings.com/conditions"}
-                  target="_blank"
+                  href={"/conditions"}
                   className="hover:text-white cursor-pointer transition"
                 >
                   Term of Use
@@ -353,8 +352,7 @@ const PremiumPopup = ({ isOpen, onClose }) => {
                   Continue With Free Plan
                 </button>
                 <Link
-                  href="https://www.aisoulmatedrawings.com/privecypolice"
-                  target="_blank"
+                  href="/privecypolice"
                   className="hover:text-white cursor-pointer transition"
                 >
                   Privacy Policy
