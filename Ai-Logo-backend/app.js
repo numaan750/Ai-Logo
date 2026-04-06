@@ -22,11 +22,11 @@ app.use("/api", loginrouter);
 app.use("/api/auth", authRoutes);
 app.use("/api", premiumRoutes);
 
-const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+// const PORT = process.env.PORT || 4000;
+// app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
-// app.get("/", (req, res) => {
-//   res.send("Ai-Logo Backend is running");
-// });
+app.get("/", (req, res) => {
+  res.send("Ai-Logo Backend is running");
+});
 
 export default app;
