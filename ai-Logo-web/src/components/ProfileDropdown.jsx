@@ -141,8 +141,7 @@ const ProfileDropdown = () => {
                   />
                 </div>
                 <Link
-                  href="https://www.aisoulmatedrawings.com/conditions"
-                  target="_blank"
+                  href="/conditions"
                   className="text-white font-medium text-xs sm:text-sm"
                 >
                   Terms of Use
@@ -159,8 +158,7 @@ const ProfileDropdown = () => {
                   />
                 </div>
                 <Link
-                  href="https://www.aisoulmatedrawings.com/privacy-policy"
-                  target="_blank"
+                  href="/privecypolice"
                   className="text-white font-medium text-xs sm:text-sm"
                 >
                   Privacy Policy
