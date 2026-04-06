@@ -91,44 +91,44 @@ export const us = {
     title: "Discover Your Logos Through AI Logo Generator",
     description:"Explore thousands of unique, professional logo designs generated instantly and effortlessly by AI.",
     img1: {
-      url: "/home-images/ai-soulmate-romantic-portrait.png",
-      alt: "ai-soulmate-romantic-portrait.png",
+      url: "/home-images/ai-logo-generator-minimalist-design.png",
+      alt: "ai-logo-generator-minimalist-design.png",
     },
     img2: {
-      url: "/home-images/future-partner-ai-drawing.png",
+      url: "/home-images/ai-logo-generator-business-logo.png",
       alt: "future-partner-ai-drawing.png",
     },
     img3: {
-      url: "/home-images/ai-soulmate-image-generation-process.png",
-      alt: "ai-soulmate-image-generation-process.png",
+      url: "/home-images/ai-logo-generator-text-based-logo.png",
+      alt: "ai-logo-generator-text-based-logo.png",
     },
     img4: {
-      url: "/home-images/romantic-ai-art-creation-steps.png",
-      alt: "romantic-ai-art-creation-steps.png",
+      url: "/home-images/ai-logo-generator-icon-logo.png",
+      alt: "ai-logo-generator-icon-logo.png",
     },
     img5: {
-      url: "/home-images/romantic-couple-ai-portrait.png",
-      alt: "romantic-couple-ai-portrait.png",
+      url: "/home-images/ai-logo-generator-startup-logo.png",
+      alt: "ai-logo-generator-startup-logo.png",
     },
     img6: {
-      url: "/home-images/ai-generated-soulmate-sketch.png",
-      alt: "ai-generated-soulmate-sketch.png",
+      url: "/home-images/ai-logo-generator-modern-logo.png",
+      alt: "ai-logo-generator-modern-logo.png",
     },
     img7: {
-      url: "/home-images/dream-partner-ai-love-art.png",
-      alt: "dream-partner-ai-love-art.png",
+      url: "/home-images/ai-logo-generator-typography-logo.png",
+      alt: "ai-logo-generator-typography-logo.png",
     },
     img8: {
-      url: "/home-images/ai-romantic-couple-illustration.png",
-      alt: "ai-romantic-couple-illustration.png",
+      url: "/home-images/ai-logo-generator-abstract-logo.png",
+      alt: "ai-logo-generator-abstract-logo.png",
     },
     img9: {
-      url: "/home-images/mystical-soulmate-ai-art.png",
-      alt: "mystical-soulmate-ai-art.png",
+      url: "/home-images/ai-logo-generator-small-business-logo.png",
+      alt: "ai-logo-generator-small-business-logo.png",
     },
     img10: {
-      url: "/home-images/cinematic-romantic-ai-portrait.png",
-      alt: "cinematic-romantic-ai-portrait.png",
+      url: "/home-images/ai-logo-generator-brand-logo.png",
+      alt: "ai-logo-generator-brand-logo.png",
     },
   },
   soulmateArt: {
