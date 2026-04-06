@@ -295,7 +295,7 @@ const CustomLogoMain = ({
                 className="flex-1 flex items-center justify-center gap-2 py-3 rounded-full text-white font-semibold text-[15px] hover:opacity-80 bg-[#010101] cursor-pointer"
               >
                 <img
-                  src="/svgs/EDIT.svg"
+                  src="/svgs/Edit.svg"
                   alt="edit icon"
                   width={14}
                   height={14}

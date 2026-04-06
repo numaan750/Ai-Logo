@@ -509,7 +509,7 @@ const History = ({ openPremiumPopup }) => {
               className="flex-1 flex items-center justify-center gap-2 py-3 rounded-full text-white font-semibold text-[15px] hover:opacity-80 bg-[#010101] cursor-pointer border border-[#9B53FF]/30"
             >
               <Image
-                src="/svgs/EDIT.svg"
+                src="/svgs/Edit.svg"
                 alt="edit icon"
                 width={14}
                 height={14}
