@@ -20,8 +20,7 @@ const Home = ({hero, country}) => {
 
           <div className="flex justify-start md:justify-start">
             <a
-              href="https://apps.apple.com/us/app/ai-logo-maker-design-studio/id6747566522"
-              target="blank"
+              href="/portal/login"
             >
               <button className="inline-flex cursor-pointer items-center justify-center gap-1.5 bg-gradient-to-r to-[#9B53FF] from-[#F53A94]  text-white font-medium px-5 sm:px-6 py-3 rounded-full  w-fit">
                 <div className=" text-[#AABFFF]">
