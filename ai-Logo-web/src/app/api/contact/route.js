@@ -24,7 +24,7 @@ export async function POST(req) {
     const mailOptions = {
       from: process.env.EMAIL_FROM,
       to: process.env.EMAIL_TO,
-      subject: `Inquiry from SoulMate by: ${name}`,
+      subject: `Inquiry from Ai-Logo-generator: ${name}`,
       html: `
         <h2>New Message</h2>
         <p><strong>Name:</strong> ${name}</p>

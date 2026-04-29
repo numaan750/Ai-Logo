@@ -96,7 +96,7 @@ export const us = {
     },
     img2: {
       url: "/home-images/ai-logo-generator-business-logo.png",
-      alt: "future-partner-ai-drawing.png",
+      alt: "ai-logo-generator-business-logo.png",
     },
     img3: {
       url: "/home-images/ai-logo-generator-text-based-logo.png",
