@@ -33,8 +33,7 @@ const Magicalcore = ({ magicalCore, country }) => {
             >
               <div className="bg-[#1A1C29] rounded-3xl p-2 h-full">
                 <a
-                  href="https://apps.apple.com/us/app/ai-logo-maker-design-studio/id6747566522"
-                  target="_blank"
+                  href="/portal/login"
                   className="block w-full"
                 >
                   <div className="w-full aspect-[16/9] relative">
